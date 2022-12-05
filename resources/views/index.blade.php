@@ -10,7 +10,7 @@
                         <span class="subheading">Hi There!</span>
                         <h1 class="mb-4">I am Abdullah Iftikhar <br>
                             <span class="typewrite" data-period="2000"
-                                  data-type='["Laravel Developer", "Laravel and Vue.js Developer", "TALL Stack Developer", "I Love to Develop."]'>
+                                  data-type='["Laravel Developer", "Vue.js Developer", "I Love to Develop."]'>
                                 <span class="wrap"></span>
                             </span>
                         </h1>
