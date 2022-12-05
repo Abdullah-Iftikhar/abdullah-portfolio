@@ -25,9 +25,9 @@
                                 </a>
                             </p>
                             <p class="social-media mt-5">
-                                <a href="https://www.upwork.com/freelancers/~01ccc827e449d96028" target="_blank">
-                                    <span class="ion-ios-add"></span> Upwork
-                                </a>
+{{--                                <a href="https://www.upwork.com/freelancers/~01ccc827e449d96028" target="_blank">--}}
+{{--                                    <span class="ion-ios-add"></span> Upwork--}}
+{{--                                </a>--}}
                                 <a href="https://www.linkedin.com/in/abdullah-iftikhar-kamboh/" target="_blank">
                                     <span class="ion-ios-add"></span> LinkedIn
                                 </a>
@@ -51,7 +51,7 @@
                 <div class="col-md-6 d-flex align-items-center" data-aos="fade-up" data-aos-delay="100"
                      data-aos-duration="1000">
                     <div class="img img-about"
-                         style="background-image:url({{asset('assets/images/xabout.jpg.pagespeed.ic.3XzwTlBUg1.jpg')}})">
+                         style="background-image:url({{asset('assets/images/thumbnail.png')}})">
                     </div>
                 </div>
                 <div class="col-md-6 heading-section" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
@@ -552,7 +552,7 @@
                                     <div class="w-100 social-media mt-5">
                                         <h3>Follow me here</h3>
                                         <p>
-                                            <a href="https://www.upwork.com/freelancers/~01ccc827e449d96028" target="_blank">Upwork</a>
+{{--                                            <a href="https://www.upwork.com/freelancers/~01ccc827e449d96028" target="_blank">Upwork</a>--}}
                                             <a href="https://www.linkedin.com/in/abdullah-iftikhar-kamboh/" target="_blank">LinkedIn</a>
                                             <a href="https://twitter.com/AbdllahIftikhar" target="_blank">Twitter</a>
                                             <a href="https://www.facebook.com/AbdullahIftikharKamboh" target="_blank">Facebook</a>
