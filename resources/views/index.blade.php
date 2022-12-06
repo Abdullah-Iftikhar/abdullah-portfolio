@@ -1,7 +1,7 @@
 @extends('layout.main')
 @section('content')
     <section class="hero-wrap" id="home"
-             style="background-image:url({{asset('assets/images/xbg_1.jpg.pagespeed.ic.sc5qLQi6UW.jpg')}})">
+             style="background-image:url({{asset('assets/images/home-background.jpg')}})">
         <div class="overlay"></div>
         <div class="container">
             <div class="row no-gutters slider-text align-items-center">
@@ -18,7 +18,7 @@
                             <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and
                                 Consonantia, there live the blind texts.</p>
                             <p>
-                                <a href="https://www.upwork.com/freelancers/~01ccc827e449d96028" target="_blank" class="btn btn-primary p-4 py-3">Hire Me
+                                <a href="{{--https://www.upwork.com/freelancers/~01ccc827e449d96028--}}" target="_blank" class="btn btn-primary p-4 py-3">Hire Me
                                     <span class="ion-ios-arrow-round-forward"></span></a>
                                 <a href="#" class="btn btn-white p-4 py-3 ms-lg-2">View Portfolio
                                     <span class="ion-ios-arrow-round-forward"></span>
@@ -247,8 +247,7 @@
         </div>
     </section>
 
-    <section class="ftco-section-counter img"
-             style="background-image:url({{asset('assets/images/xbg_3.jpg.pagespeed.ic.z_ltqRZXRc.jpg')}})">
+    <section class="ftco-section-counter img" style="background-image:url({{asset('assets/images/xbg_3.jpg.pagespeed.ic.z_ltqRZXRc.jpg')}})">
         <div class="overlay"></div>
         <div class="container">
             <div class="row section-counter">
