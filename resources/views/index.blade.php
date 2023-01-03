@@ -18,24 +18,27 @@
                             <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and
                                 Consonantia, there live the blind texts.</p>
                             <p>
-                                <a href="{{--https://www.upwork.com/freelancers/~01ccc827e449d96028--}}" target="_blank" class="btn btn-primary p-4 py-3">Hire Me
+                                <a href="https://www.upwork.com/freelancers/~01ccc827e449d96028" target="_blank" class="btn btn-primary p-4 py-3">Hire Me
                                     <span class="ion-ios-arrow-round-forward"></span></a>
                                 <a href="#" class="btn btn-white p-4 py-3 ms-lg-2">View Portfolio
                                     <span class="ion-ios-arrow-round-forward"></span>
                                 </a>
                             </p>
                             <p class="social-media mt-5">
-{{--                                <a href="https://www.upwork.com/freelancers/~01ccc827e449d96028" target="_blank">--}}
-{{--                                    <span class="ion-ios-add"></span> Upwork--}}
-{{--                                </a>--}}
+                                <a href="https://www.upwork.com/freelancers/~01ccc827e449d96028" target="_blank">
+                                    <span class="ion-ios-add"></span> Upwork
+                                </a>
+                                <a href="https://github.com/Abdullah-Iftikhar" target="_blank">
+                                    <span class="ion-ios-add"></span> Github
+                                </a>
+                                <a href="https://join.skype.com/invite/v3p4v5dvKyTg" target="_blank">
+                                    <span class="ion-ios-add"></span> Skype
+                                </a>
                                 <a href="https://www.linkedin.com/in/abdullah-iftikhar-kamboh/" target="_blank">
                                     <span class="ion-ios-add"></span> LinkedIn
                                 </a>
                                 <a href="https://twitter.com/AbdllahIftikhar" target="_blank">
                                     <span class="ion-ios-add"></span> Twitter
-                                </a>
-                                <a href="https://www.facebook.com/AbdullahIftikharKamboh" target="_blank">
-                                    <span class="ion-ios-add"></span> Facebook
                                 </a>
                             </p>
                         </div>
@@ -59,8 +62,7 @@
                         <ul class="nav nav-tabs" id="myTab" role="tablist">
                             <li class="nav-item" role="presentation">
                                 <a class="nav-link active" id="aboutme-tab" data-bs-toggle="tab" href="#aboutme"
-                                   role="tab"
-                                   aria-controls="aboutme" aria-selected="true">About Me</a>
+                                   role="button" aria-controls="aboutme" aria-selected="true">About Me</a>
                             </li>
                             <li class="nav-item" role="presentation">
                                 <a class="nav-link" id="skills-tab" data-bs-toggle="tab" href="#skills" role="tab"
@@ -549,12 +551,13 @@
                                         </div>
                                     </form>
                                     <div class="w-100 social-media mt-5">
-                                        <h3>Follow me here</h3>
+                                        <h3>Catch me here</h3>
                                         <p>
-{{--                                            <a href="https://www.upwork.com/freelancers/~01ccc827e449d96028" target="_blank">Upwork</a>--}}
+                                            <a href="https://www.upwork.com/freelancers/~01ccc827e449d96028" target="_blank">Upwork</a>
+                                            <a href="https://github.com/Abdullah-Iftikhar" target="_blank">Github</a>
+                                            <a href="https://join.skype.com/invite/v3p4v5dvKyTg" target="_blank">Skype</a>
                                             <a href="https://www.linkedin.com/in/abdullah-iftikhar-kamboh/" target="_blank">LinkedIn</a>
                                             <a href="https://twitter.com/AbdllahIftikhar" target="_blank">Twitter</a>
-                                            <a href="https://www.facebook.com/AbdullahIftikharKamboh" target="_blank">Facebook</a>
                                         </p>
                                     </div>
                                 </div>
